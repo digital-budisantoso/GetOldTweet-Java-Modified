@@ -1,0 +1,7 @@
+Versi 1.1
+
+Versi ini menambahkan interactive console untuk pengisian parameter, 
+dan penamaan file dengan tambahan datetime sehingga file hasil crawling tidak tumpang tindih
+
+Jalankan aplikasi tanpa memasukan argument 
+java -jar getoldtweets-spring-boot-v1_1.jar
